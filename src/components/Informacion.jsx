@@ -1,3 +1,4 @@
+ //primera letra siempre en mayus al crear un componente
  import Teoria from "./Teoria";
  //  esqueleto rsc     "funcion de componentes"
     const Informacion = () => {

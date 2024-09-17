@@ -1,3 +1,4 @@
+// props info que leda el padre al hijo,es un objeto,sirve cuando padre tiene que darle info al hijo
 const Teoria = (props) => {
     return (
         <article>
