@@ -21,3 +21,6 @@ function App() {
 }
 
 export default App
+
+// npm run build para produccion ,agarrar la carpeta dist y soltarla en netiflix si ha que deployr a mano
+
